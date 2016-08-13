@@ -1,10 +1,12 @@
-package com.thezalesskiy;
+package thezalesskiy;
 
 import java.io.BufferedReader;
 import java.io.IOException;
 import java.io.InputStreamReader;
 
-
+/*
+    Class for Horse
+ */
 public class Horse {
     private String name;
     private double speed;

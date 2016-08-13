@@ -1,4 +1,4 @@
-package com.thezalesskiy;
+package thezalesskiy;
 
 import java.io.IOException;
 import java.util.ArrayList;
